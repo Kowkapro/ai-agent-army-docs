@@ -7,7 +7,6 @@
 * [Что такое OpenClaw](nachalo-raboty/chto-takoe-openclaw.md)
 * [Установка на VPS](nachalo-raboty/ustanovka-na-vps.md)
 * [Первый запуск и настройка](nachalo-raboty/pervyj-zapusk.md)
-* [Готовые роли для Claude](nachalo-raboty/roli-dlya-claude.md)
 
 ## Работа с агентом
 * [Как давать задачи агенту](rabota-s-agentom/kak-davat-zadachi.md)
